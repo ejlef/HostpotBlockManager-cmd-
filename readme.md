@@ -1,7 +1,6 @@
 # PC Hotspot Manager v2
 
-![Windows](https://img.shields.io/badge/OS-Windows-blue)
-![Batch](https://img.shields.io/badge/Language-Batch-yellow)
+![Windows 11](https://img.shields.io/badge/OS-Windows-blue)
 
 ---
 
