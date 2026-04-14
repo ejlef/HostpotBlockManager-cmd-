@@ -1,6 +1,6 @@
 # PC Hotspot Manager v2
 
-![Windows 11](https://img.shields.io/badge/OS-Windows-blue)
+![Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue)
 
 ---
 
@@ -32,7 +32,7 @@ It comes with **UAC elevation**, real-time status checks, and a prompt to restar
 
 ## How to Use
 
-1. Download or save the script as `PC_Hotspot_Manager_v2.bat`.
+1. Download or save the script as `v1.bat or v2.bat`.
 2. Double-click to run.
 
    * If not running as admin, a **UAC prompt** will appear.
