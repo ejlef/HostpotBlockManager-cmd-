@@ -72,4 +72,4 @@ It comes with **UAC elevation**, real-time status checks, and a prompt to restar
 
 ## Author
 
-**Elj Men** – Educational Batch Script Developer
+**Elj** – Educational Batch Script Developer
