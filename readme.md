@@ -9,8 +9,6 @@
 
 **PC Hotspot Manager v2** is a lightweight **Windows batch utility** that allows you to quickly **lock or unlock your PC hotspot**.
 
-It includes **UAC elevation**, real-time status checking, and optional restart prompts to ensure changes are properly applied.
-
 ---
 
 ## ✨ Features
@@ -19,8 +17,7 @@ It includes **UAC elevation**, real-time status checking, and optional restart p
 - 🔓 Unlock (Enable) PC hotspot  
 - 📊 Check current hotspot status  
 - 🛡 Automatic UAC administrator prompt  
-- 💻 Simple menu-driven interface  
-- 🔄 Restart prompt for applying changes  
+- 💻 Simple menu-driven interface   
 - ⚡ Lightweight and portable  
 
 ---
@@ -40,13 +37,6 @@ It includes **UAC elevation**, real-time status checking, and optional restart p
 ---
 
 ## 🚀 How to Use
-
-### ZIP Version
-1. Download the `.zip` file  
-2. Extract it  
-3. Run `v2.bat` (or main script file)  
-4. Allow Administrator permission if prompted  
-5. Use the menu to control hotspot  
 
 ### EXE Version
 1. Download `HostpotBlockManager.exe`  
